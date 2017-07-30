@@ -1,5 +1,7 @@
 <h1>File saver typescript/angular 2</h1>
 
+<i>npm install file-saver-typescript</i>
+
 <b>HOW TO USE</b><br>
 
 <i>import {FileSaver} from "./file-saver"</i><br>
