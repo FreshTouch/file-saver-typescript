@@ -2,9 +2,9 @@ File saver typescript/angular 2
 
 <b>HOW TO USE</b><br>
 
-import {FileSaver} from "./file-saver"<br>
+<i>import {FileSaver} from "./file-saver"</i><br>
 
-let fileSaver: any = new FileSaver();<BR>
+<b>let fileSaver: any = new FileSaver();</b><BR>
    fileSaver.responseData = {RESPONSE};<BR>
    fileSaver.strFileName = {FILE NAME};<BR>
    fileSaver.strMimeType = {FILE TYPE};<BR>
