@@ -1,4 +1,4 @@
-<h1>File saver typescript/angular 2</h1>
+<h1>File saver typescript</h1>
 
 <i>npm install file-saver-typescript</i>
 
